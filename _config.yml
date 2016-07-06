@@ -1,0 +1,66 @@
+gems:
+  - jekyll-auto-image
+  - jekyll/scholar
+  - rdiscount
+  - jekyll-org-mode-converter
+
+
+
+highlighter: rouge
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+exclude: ['README.org']
+
+scholar:
+  style: chicago-author-date
+  locale: en
+
+  sort_by: none
+  order: reverse
+  
+  source: ./_bibliography
+  bibliography: pedroguilherme.bib
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  
+  query: "@*"
+
+image: ./images/default.jpg
+
+url: "http://greedblink.github.io/"
+
+authors: 
+  jonatha: 
+    name: Jonatha Azevedo
+    display_name: Jonatha
+    email: jonatha.costa@fgv.br
+    twitter: 
+    github: GreedBlink
+  
+    fernando: 
+      name: Fernando Teixeira
+      display_name: Fernando
+      email: fernando.teixeira@fgv.br
+      twitter: 
+      github: GreedBlink
+    
+    lucas:
+     name: lucas Farias
+     display_name: Lucas
+     email: Lucas.farias@fgv.br
+     twitter: 
+     github: 
+     
+    Pedro:
+     name: Pedro Costa 
+     display_name: Pedro
+     email: pedro.guilherme@fgv.br
+     twitter: 
+     github: 
+
+
+
+

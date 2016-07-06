@@ -1,0 +1,80 @@
+---
+layout: blog
+title: Comida, Política e Data Science 
+---
+ {% for post in site.posts limit: 3 %}
+<div class="jumbotron" style="background:{{ post.image }}" >
+  <h3><img src="{{ post.image }}" class="img-thumbnail" alt="..." width=auto  height=auto > {{ post.title }}</h3> 
+  <i><small><small>{{ post.author }} / {{ post.date | date: '%Y -' }}  {{ post.date | date: '%d -' }} {{ post.date | date: '%m' }}</small></small></i>
+  <p>{{ post.resumo }}</p>
+  
+         <hr>
+        
+        <ul class="nav navbar-nav">
+           <a href="{{ post.url }}"><button class="btn btn-primary" type="button">Leia mais</button></a>
+          </ul> 
+        
+        <ul class="nav navbar-nav navbar-right">
+          <li><button class="btn btn-primary" type="button"><i class="fa fa-facebook" aria-hidden="true"></i></button></li>
+          <li><button class="btn btn-info" type="button"><i class="fa fa-twitter" aria-hidden="true"></i></button></li>
+          <li><button class="btn btn-danger" type="button"><i class="fa fa-google-plus" aria-hidden="true"></i></button></li>
+        </ul><!--/ul nav navbar-nv-->
+      </div> <!-- /row -->  
+  <hr>
+   </p>
+ 
+{% endfor %}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
