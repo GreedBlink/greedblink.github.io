@@ -1,8 +1,8 @@
 gems:
-  - jekyll-auto-image
   - jekyll/scholar
   - rdiscount
   - jekyll-org-mode-converter
+  - jekyll-auto-image
 
 
 
