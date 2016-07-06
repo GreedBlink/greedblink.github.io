@@ -5,5 +5,7 @@ title: Publications
 
 # {{ page.title }}
 
+{% bibliography %}
+
 
 
