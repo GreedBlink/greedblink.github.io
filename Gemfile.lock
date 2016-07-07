@@ -23,8 +23,6 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-auto-image (1.1.2)
-      jekyll
     jekyll-org-mode-converter (0.1.7)
       org-ruby (>= 0.9.12)
     jekyll-sass-converter (1.4.0)
@@ -61,7 +59,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll-auto-image
   jekyll-org-mode-converter
   jekyll-scholar
   rdiscount
