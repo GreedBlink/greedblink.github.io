@@ -5,9 +5,9 @@ title: Publications
 
 # {{ page.title }}
 
+dasasdadasdas
+{% ./_bibliography %}
 
-{%bibliography%}
-{%bibliography%}
 
 
 
