@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit placerat commodo vitae ac mi.
+title: In tellus lectus, ultrices ac luctus id, placerat vitae leo.
 resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit.at risus id velit placerat commodo vitae ac mi 
-date: 2016-06-11 
-author: Jonatha Azevedo
-tags:
- - NMEC
- - Colaboradores
- - Política
+date: 2016-06-09
+author: Fernando Teixeira
+tags: 
+ - Blog
+ - Agluma coisa
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit placerat commodo vitae ac mi. Nam congue lorem quis leo porta sodales a id ante. Donec in faucibus urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec molestie mauris a finibus lacinia. Sed sit amet rutrum ipsum, et tempus ligula. Aliquam eu ullamcorper sem. Nam eget commodo nulla, interdum fermentum leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam tempus, erat eget accumsan facilisis, odio erat tempus ipsum, ut vehicula ligula purus eu tellus. Phasellus cursus tempor odio, ac ultrices nibh volutpat vitae. Nunc tincidunt ultricies nulla, eget lobortis ligula commodo at. Pellentesque mollis erat a tincidunt interdum. Fusce tincidunt aliquam dignissim. Nulla tempor tincidunt purus vel vestibulum. Fusce vestibulum scelerisque quam, ut venenatis odio tempor non.

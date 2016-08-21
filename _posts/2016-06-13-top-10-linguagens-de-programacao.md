@@ -3,7 +3,6 @@ layout: post
 title: Top 10 linguagens de programação
 resumo: A linguagem R é a sexta mais usada segundo a  IEEE Spectrum 
 date: 2016-06-13
-image: ../images/estatistica.jpg
 author: Jonatha Azevedo
 tags: 
  -  IEEE Spectrum
