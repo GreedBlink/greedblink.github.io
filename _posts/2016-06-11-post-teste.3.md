@@ -4,7 +4,7 @@ title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus i
 resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit.at risus id velit placerat commodo.
 date: 2016-06-11 
 author: Jonatha Azevedo
-image: /images/defaut.jpg
+image: /images/default.jpg
 tags:
  - NMEC
  - Colaboradores

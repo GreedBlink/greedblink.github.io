@@ -4,7 +4,7 @@ title: In tellus lectus, ultrices ac luctus id, placerat vitae leo.
 resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 date: 2016-06-09
 author: Jonatha Azevedo
-image: /images/defaut.jpg
+image: /images/default.jpg
 tags: 
  - Blog
  - Agluma coisa

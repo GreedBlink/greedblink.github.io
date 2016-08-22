@@ -4,7 +4,7 @@ title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus i
 resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit at risus.
 date: 2016-06-10
 author: Jonatha Azevedo
-image: /images/defaut.jpg
+image: /images/default.jpg
 tags: 
  - Lorem
  - Teste
