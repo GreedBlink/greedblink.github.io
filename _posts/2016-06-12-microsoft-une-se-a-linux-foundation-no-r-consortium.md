@@ -4,6 +4,7 @@ title: Microsoft une-se à Linux Foundation no R Consortium
 resumo: A missão central do R Consortium é fornecer suporte através da identificação, desenvolvimento e implementação de projetos de infraestrutura
 date: 2016-06-12
 author: Jonatha Azevedo
+image: /images/rconsortium.png" 
 tags: 
  - R Consortium
  - Linux
