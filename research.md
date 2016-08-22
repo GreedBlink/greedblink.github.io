@@ -1,115 +1,72 @@
 ---
 layout: default
-<<<<<<< HEAD
+title: Research 
+# {{ page.title }}
 ---
 
  <div class="row">
      
+     
+     
+     
       <div class="col-xm-12 col-xs-12">
-        <nav class="panel panel-info">
-          <div class="panel-heading">BETS package</div>  
-            <div class="panel-body">
-              
-              <div class="media">
-                <div class="media-left">
-                   <!--apresentacao pacote bets--> 
-                  <iframe class="media-object" src="//slides.com/johnazevedo/bets-1/embed" width="570" height="440" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                </div>
+          <nav class="panel panel-info">
+            <div class="panel-heading">BETS package</div>  
+              <div class="panel-body">
+                <div class="media">
+                 
+                  <div class="media-left">
+                     <!--apresentacao pacote bets--> 
+                      <iframe class="media-object" src="//slides.com/johnazevedo/bets-1/embed" width="570" height="440" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  </div>
                
-              <div class="media-body"><p></p>
-              <h4>Descrição</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque velit felis, sollicitudin eget varius vitae, 
-              mattis ultricies urna. In at rutrum erat. Aenean et consequat arcu, id molestie nunc. Aenean felis eros, blandit 
-              sed tellus ac, molestie sodales nunc. Fusce porta, libero nec semper interdum, velit quam convallis elit, ac porta i
-              psum orci quis erat. Praesent ornare, ante commodo sodales interdum, elit tortor ultrices metus, non ultrices magna 
-              dui quis nisi. Aenean vitae magna nisl. Maecenas bibendum vitae orci quis ornare. Sed fringilla tortor a suscipit hendrerit. 
-              Donec egestas mi eros, aliquet tempus libero finibus suscipit. Phasellus finibus at orci a vehicula. Maecenas mollis at turpis a semper.</p>
-              
-              
-                <p><kbd>Instalando o pacote BETS direto do GitHub</kbd></p>
-                <pre>
-                  install.packages("devtools")
-                  require(devtools)
-                  install_github("pedrocostaferreira/BETS")
-                  require(BETS)
-                </pre>
-              
-              <hr>
-              
-                <div class="btn-group" role="group" aria-label="...">
-                  <button type="button" class="btn btn-default">GitHub <i class="fa fa-github" aria-hidden="true"></i></button>
-                  <button type="button" class="btn btn-default">Download <i class="fa fa-download" aria-hidden="true"></i></button></a>
-              </div>
-            </div> 
-            </div>
-         </nav>
-      </div>    
+                  <div class="media-body"><p></p>
+                    <h4>Descrição</h4>
+                    <p>O pacote BETS (sigla para Brazilian Economic Time Series) para o R (R Core Team, 2012) fornece, de
+maneira descomplicada, as mais relevantes séries temporais econômicas do Brasil, além de diversas
+ferramentas para analisá-las. O BETS preenche uma lacuna no processo de obtenção de dados no
+Brasil, na medida em que unifica os pontos de acesso e oferece uma interface bastante simples, flexível
+e robusta.
+                    </p>
+                      <p><kbd>Instalando o pacote BETS direto do GitHub</kbd></p>
+                      <pre>
+                        install.packages("devtools")
+                        require(devtools)
+                        install_github("pedrocostaferreira/BETS")
+                        require(BETS)
+                      </pre>
+                      <hr>
+                      <div class="btn-group" role="group" aria-label="...">
+                       <button type="button" class="btn btn-default">GitHub <i class="fa fa-github" aria-hidden="true"></i></button>
+                       <button type="button" class="btn btn-default">Download <i class="fa fa-download" aria-hidden="true"></i></button>
+                      </div><!--/btn-group -->
+                  </div> <!--/media-body -->
+                </div><!-- /media -->
+                </div><!--/panel-body -->
+         </nav><!-- /panel panel-info -->
+      </div>  <!-- /col-xm-12 col-xs-12 -->  
         
       <div class="col-xm-12 col-xs-12">
-        <nav class="panel panel-warning">
-          <div class="panel-heading">Indicador  de Incerteza</div>  
-            <div class="panel-body">
-              
-              <div class="media">
-                <div class="media-left">
-                   <a href="#"><img class="media-object" src="images/logo_novo.png" ></a>
-                </div>
-              <div class="media-body">
-                <p>
-                Nós estamos vivendo um período em que a incerteza econômica e política está em um nível tão 
-                elevado que políticas macroeconômicas tradicionais como a diminuição da taxa de juros e expansão 
-                fiscal terão pouco ou quase nenhum efeito sobre os investimentos, o emprego e o crescimento econômico. 
-                A atual conjuntura requer responsabilidade e compromisso com a estabilidade política e econômica de médio 
-                e longo prazos. Sobretudo, são necessárias medidas claras e com comprovada eficácia. Em bom português, é 
-                a hora do feijão com arroz.
-              </p>
-             <pre class="rfiddle"></pre>
-              <iframe width='100%' height='300' src='http://www.r-fiddle.org/#/embed?id=uUNThjNW' allowfullscreen='allowfullscreen' frameborder='0'></iframe>
-             
-              
-              
-              
-              <p>
-                <div class="dropdown">
-                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                    Refêrencias
-                    <span class="glyphicon glyphicon-download" aria-hidden="true"></span>
-                    </button>
-                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                      <li><a> Baker, Scott and Nicholas Bloom (2011).<strong> Does uncertainty drive business cycles? Using disasters as natural experiments.</strong></a></li>
-                      <li><a>'NBER Working Paper 19475.</a></li>
-                      <li><a> Bryan, K., Lubos, P., Pietro, V. (2015).<strong> The Price of Political Uncertainty: Theory and Evidence from the Option Market.</strong></a></li>
-                      <li><a>Available at SSRN: http://dx.doi.org/10.2139/ssrn.2356588</li>
-                      <li><a>Bloom, N (2013).<strong> Fluctuations in uncertainty.</strong> National Bureau of Economic Research. Working paper.</a></li>
-                      <li><a>Knight, Frank H. Risk (2009).<strong>Uncertainty, and Profit.</strong> John McClure, ed. Kissimmee, Fla.: Signalman Publishing. </a></li>
-                      <li><a>World Bank Development Report (2013),<strong>Risk and Opportunity</strong>,World Bank Press</a></li>
-                      <li><a>Koren, Miklos, and Tenreyro, Sylvania (2007). <strong>Volatility and Development.</strong> Quarterly Journal of Economics, 122(1), pp 243-287</a></li>
-                    </ul>
-                </div><!-- /.dropdown -->
-            </div> <!-- panel body -->
-        </nav>
-      </div> <!--/.col-xm-12 col-xs-12  -->          
+         <nav class="panel panel-warning">
+           <div class="panel-heading">Indicador  de Incerteza</div>  
+              <div class="panel-body">
+                <div class="media">
+                  <div class="media-left">
+                     
+                     <a href="#"><img class="media-object" src="images/logo_novo.png"></a>
+                  
+                  
+                  </div>
+                  
+                  <div class="media-body">
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe class="embed-responsive-item" src="https://pedroferreira.shinyapps.io/incerteza"></iframe>
+                    </div>
+                  </div> <!-- /media-body -->  
+                </div>  <!-- /media -->
+              </div> <!-- panel body -->
+        </nav> <!-- /panel panel-warning -->
+      </div> <!--/.col-xm-12 col-xs-12  -->     
+      
     </div><!--/.row-->
-=======
-title: Research 
----
 
-# {{ page.title }}
-
-
-  
-## Comentários
-  
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    var disqus_shortname = 'arademaker'; 
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
->>>>>>> 532819e9822b1ee7dd225cd641db4995d6bcb2e2

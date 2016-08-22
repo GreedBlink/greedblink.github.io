@@ -543,3 +543,8 @@ footer { background-color:#0c1a1e;min-width:100%; min-height:35; font-family: 'O
 	
 /* /eventos -------------------------------------------------------- */
 
+@media (min-width: 768px) {
+	.bs-docs-footer {
+    	text-align: left;
+	}
+}
