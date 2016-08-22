@@ -1,10 +1,10 @@
 ---
 layout: post
 title: In tellus lectus, ultrices ac luctus id, placerat vitae leo.
-resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit.at risus id velit placerat commodo vitae ac mi 
+resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 date: 2016-06-09
-author: Fernando Teixeira
-image: /images/defaut.png
+author: Jonatha Azevedo
+image: /images/defaut.jpg
 tags: 
  - Blog
  - Agluma coisa

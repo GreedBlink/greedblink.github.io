@@ -1,10 +1,10 @@
 ---
 layout: post 
-title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit placerat commodo vitae ac mi.
-resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit.at risus id velit placerat commodo vitae ac mi 
+title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit.
+resumo: Lorem ipsum dolor sit amet, consectetur adipiscing elit at risus.
 date: 2016-06-10
 author: Jonatha Azevedo
-image: /images/defaut.png
+image: /images/defaut.jpg
 tags: 
  - Lorem
  - Teste

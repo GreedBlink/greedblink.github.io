@@ -4,7 +4,7 @@
  <title>Alexandre Rademaker</title>
  <link href="http://arademaker.github.com/atom.xml" rel="self"/>
  <link href="http://arademaker.github.com/"/>
- <updated>2016-08-22T15:28:20+00:00</updated>
+ <updated>2016-08-22T15:34:20+00:00</updated>
  <id>http://arademaker.github.com/</id>
  <author>
    <name>Alexandre Rademaker</name>
@@ -98,7 +98,7 @@ visualização, e aplicações de relatórios.”&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit placerat commodo vitae ac mi.</title>
+   <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit placerat.</title>
    <link href="http://arademaker.github.com/blog/2016/06/11/post-teste.3"/>
    <updated>2016-06-11T00:00:00+00:00</updated>
    <id>http://arademaker.github.com/blog/2016/06/11/post-teste.3</id>
@@ -109,7 +109,7 @@ visualização, e aplicações de relatórios.”&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit placerat commodo vitae ac mi.</title>
+   <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at risus id velit.</title>
    <link href="http://arademaker.github.com/blog/2016/06/10/post-teste.2"/>
    <updated>2016-06-10T00:00:00+00:00</updated>
    <id>http://arademaker.github.com/blog/2016/06/10/post-teste.2</id>
