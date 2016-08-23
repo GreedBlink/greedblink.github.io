@@ -68,9 +68,9 @@
 			</div>
 			<div class="collapse navbar-collapse pull-right" id="zsxnavcollapse">
 				<ul class="nav navbar-nav">
-					<li><a href="#">SOBRE</a></li>
-					<li><a href="/blog/tags">TAGS</a></li>
-					<li><a href="mailto:jonatha,costa@fgv.br.com">CONTACTATO</a></li>
+				  <li><a href="/blog/index.html"><i class="fa fa-home" aria-hidden="true"></i> HOME</a></li>
+					<li><a href="/blog/tags"><i class="fa fa-tags" aria-hidden="true"></i> TAGS</a></li>
+					<li><a href="mailto: jonatha.costa@fgv.br.com"><i class="fa fa-at" aria-hidden="true"></i> CONTACT</a></li>
 				</ul>
 			</div>
         </div>
@@ -109,7 +109,7 @@
           <div class="list-group">
             <a href="#" class="list-group-item active">
               <h4 class="list-group-item-heading">
-              Por que "Comida, politica e data science"?
+              <small>"Comida, política e data science"?!</small>
               </h4>
               </a>
               <li class="list-group-item">
@@ -178,36 +178,38 @@
       
       <hr>
 
-      <footer>
+    <footer class="bs-docs-footer">
+ 
+ 
        
   <div class="container">
     
       <div class="col-md-4 col-sm-6 footerleft ">
         <div class="logofooter"> Pedro costa ferreira</div>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
-        <p><i class="fa fa-map-pin"></i> 210, Aggarwal Tower, Rohini sec 9, New Delhi -        110085, INDIA</p>
-        <p><i class="fa fa-phone"></i> Phone (India) : +91 9999 878 398</p>
-        <p><i class="fa fa-envelope"></i> E-mail : pedro/p>
+        <p>Doutor em Engenharia Elétrica - (Decision Support Methods) e Mestre em Economia.</p>
+        <p><i class="fa fa-map-pin"></i>Escritório: Rua Barão de Itambi, nº 60 - Botafogo, RJ</p>
+        <p><i class="fa fa-phone"></i>Phone (Brazil): +55 (21) 3799-6751</p>
+        <p><i class="fa fa-envelope"></i> E-mail : pedro.guilherme@fgv.br</p>
         
       </div>
       <div class="col-md-2 col-sm-6 paddingtop-bottom">
         <h6 class="heading7">Links Gerais</h6>
         <ul class="footer-ul">
-          <li><a href="#"> Career</a></li>
-          <li><a href="#"> Privacy Policy</a></li>
+          <li><a href="#"> Blog</a></li>
+          <li><a href="#"> Graduation</a></li>
           <li><a href="#"> Terms & Conditions</a></li>
-          <li><a href="#"> Client Gateway</a></li>
+          <li><a href="#"> Research</a></li>
           <li><a href="#"> Ranking</a></li>
-          <li><a href="#"> Case Studies</a></li>
-          <li><a href="#"> Frequently Ask Questions</a></li>
+          <li><a href="#"> Publications</a></li>
+          <li><a href="#"> Postgraduate</a></li>
         </ul>
       </div>
       <div class="col-md-3 col-sm-6 paddingtop-bottom">
         <h6 class="heading7">LATEST POST</h6>
         <div class="post">
-          <p>facebook crack the movie advertisment code:what it means for you <span>August 3,2015</span></p>
-          <p>facebook crack the movie advertisment code:what it means for you <span>August 3,2015</span></p>
-          <p>facebook crack the movie advertisment code:what it means for you <span>August 3,2015</span></p>
+            {% for  post in site.posts limit:3 %}
+                <p>{{ post.title }} <span> {{ post.date | date: '%B ' }}  {{ post.date | date: '%d,' }} {{ post.date | date: ' %Y' }}</span></p>
+            {% endfor %}  
         </div>
       </div>
       <div class="col-md-3 col-sm-6 paddingtop-bottom">
@@ -220,6 +222,8 @@
       </div>
     
   </div>
+  
+  
 </footer>
 
 <div class="copyright">
@@ -239,6 +243,8 @@
     </div>
   </div>
 </div>
+ 
+ 
 
       
       

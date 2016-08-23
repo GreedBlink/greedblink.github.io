@@ -4252,6 +4252,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     border-radius: 0;
   }
 }
+
+
 .navbar-fixed-top,
 .navbar-fixed-bottom {
   position: fixed;
@@ -4963,9 +4965,8 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #FFFFFF;
-  background-image:url("econometria.jpg");
-  background: #000 url("econometria.jpg") no-repeat center center;
+  background-color:  #FFFAFA;
+  background: #8B7E66  no-repeat center center;
     background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -webkit-background-size: 100% 100%;

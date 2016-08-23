@@ -17,9 +17,11 @@ Recentemente foi publicado no IEEE Spectrum, uma revista da área de engenharia,
 Tal publicação chamou atenção  pelo fato da ascensão da linguagem R neste ranking. O site apresentou também, como comparação, 
 o ranking do ano de 2014.
 
+<p class="text-center">
+    <img src="/images/rank.jpg" class="img-thumbnail"  alt="Rank de linguagens">
+</p>
 
 
-<img src="/images/rank.jpg" class="img-fluid center-block"  alt="Responsive image">
  
 
 Como podemos ver na imagem acima, vemos uma grande ascensão do R, subindo da 9ª posição, em 2014, para a 6ª posição, em 2015. De acordo com a revista, essa 

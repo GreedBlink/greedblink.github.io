@@ -14,9 +14,9 @@ tags:
 Nos dias 10 e 11 de maio de 2016 ocorreu o Seminário internacional de Estatística com R em Niterói. Um evento com proposta única no Brasil que foi realizado
 pela UFF - Universidade Federal Fluminense - e coordenado pela professora Luciane Alcoforado. 
 
-
-<img src="/images/ser.png" class="img-fluid center-block">
-
+<p class="text-center">
+    <img src="/images/ser.png" class="img-thumbnail">
+</p>
 O evento, que tem pretensões de ser anual, conseguiu reunir um bom público com diferentes níveis de conhecimento na linguagem R e em data science. 
 Palestras que mostraram como esse segmento de análise  e desenvolvimento de ferramentas pra análise de dados está crescendo no brasil. Entre muitos
 temas interessantes, houve palestras que abordavam desde maneiras de aprender a programar em R usando o R - com a library 'swirl' - a planejamentos
