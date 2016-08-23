@@ -4,7 +4,7 @@ title: Participação do NMEC no Seminário internacional de Estatística com R 
 resumo: "O Seminário Internacional de Estatística com R: Inovação e Atuação do Profissional no Mercado”  promove um intercâmbio de conhecimento entre pesquisadores e usuários da linguagem R" 
 date: 2016-08-20
 author: Jonatha Azevedo
-image: /images/ser.png" 
+image: /images/ser1.png" 
 tags:
  - Seminário
  - SER
