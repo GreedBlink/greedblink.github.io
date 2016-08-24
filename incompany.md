@@ -12,27 +12,62 @@ title: Incompany
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
+                      <img src=""  class="media-object" alt="">
+                    </a>
+                  </div><!-- /.media-left-->
+                  <div class="media-body">
+                    <strong><h4 class = "media-heading">Model Thinking Br</h4></strong>
+                    <strong>Sócio diretor</strong>
+                    <br>
+                      <h5>
+                         A Model Thinking Br oferece soluções econômicas e financeiras utilizando suporte estatístico, computacional e métodos de Séries
+                         Temporais, buscando atender as demandas de nossos clientes de maneira ótima e fazendo com que as ferramentas desenvolvidas façam 
+                         parte do dia a dia da empresa.
+                      </h5>
+                      
+                      <h5>
+                        Faz parte do nosso portfólio estudos de viabilidade, cenários macroeconômicos, previsões de curto e longo prazos, 
+                        validação de modelos/algoritmos computacionais, análise de risco, desenvolvimento de indicadores etc.
+                      </h5>
+                      
+                      <h5>
+                        Atendemos empresas de médio e grande porte, fornecendo além das informações demandadas, plataformas capazes de produzir 
+                        tais estudos
+                      </h5>
+                      <h5>
+                      Somos pragmáticos e abertos a novas soluções. Começamos por definir as questões certas, para então analisá-las com rigor analítico, 
+                      como base para criar soluções.
+                      </h5>
+                      
+                      <h5>
+                      Nossa equipe, formada por mestres e doutores, possui forte vínculo com a academia, buscando sempre trazer conhecimentos de fronteira para nossos clientes.
+                      </h5>
+                    </div><!--/media body-->
+                </div><!--/media -->
+              </li><!--/li media -->
+            </ul><!--/ul media-list -->
+          </div><!--/jumbotron-->
+
+<hr>
+
+<div class="jumbotron">
+            <ul class="media-list">
+              <li class="media">
+                <div class="media">
+                  <div class="media-left">
+                    <a href="#">
                       <img src="/images/fgv_logo.png" width="130px" class="media-object" alt="Light S.A.">
                     </a>
                   </div><!-- /.media-left-->
                   <div class="media-body">
-                    <h4 class = "media-heading">Fundação Getúlio Vargas, FGV, Brasil.</h4>
-                    <strong></strong>
+                    <strong><h4 class = "media-heading">Fundação Getúlio Vargas, FGV, Brasil.</h4></strong>
+                    <strong>Cientista chefe do núcleo de métodos estatísticos e computacionais (NMEC) - IBRE </strong>
                     <br>
-                      
-                      <h5></h5> 
-                      
-                      <h5>Para maiores detalhes veja os artigos abaixo:</h5>
-                      
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
+                      <h5>
+                        Cientista-chefe do centro de pesquisa estatísticas da Superintendência de estatísticas públicas 
+                        (índice de preço e ciclo de negócios). Nossas tarefas são: desenvolver novas metodologias para melhorar 
+                        nossos resultados estatísticos e minimizar custos; fornece treinamento em estatística aplicada e modelos 
+                        econométricos de série de vezes.
                       </h5>
                     </div><!--/media body-->
                 </div><!--/media -->
@@ -40,7 +75,6 @@ title: Incompany
             </ul><!--/ul media-list -->
           </div><!--/jumbotron-->
           
-
 <hr>
 
 <div class="jumbotron">
@@ -53,24 +87,10 @@ title: Incompany
                     </a>
                   </div><!-- /.media-left-->
                   <div class="media-body">
-                    <h4 class = "media-heading">IBMEC RJ, IBMEC RJ, Brasil.</h4>
-                    <strong></strong>
+                   <strong><h4 class = "media-heading">IBMEC RJ, IBMEC RJ, Brasil.</h4></strong>
+                    <strong>Professor Assistente</strong>
                     <br>
-                      
-                      <h5></h5> 
-                      
-                      <h5></h5>
-                      
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                      <h5>Ensino de estatística e modelos de série temporal econométrica.</h5> 
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -100,16 +120,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                     
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -138,16 +149,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                      
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -176,16 +178,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                     
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -214,16 +207,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                      
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -251,16 +235,6 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -321,24 +295,10 @@ title: Incompany
                     </a>
                   </div><!-- /.media-left-->
                   <div class="media-body">
-                    <h4 class = "media-heading">BANCO ITAÚ HOLDING FINANCEIRA SA, ITAÚ, Brasil</h4>
-                    <strong></strong>
+                    <strong><h4 class = "media-heading">BANCO ITAÚ HOLDING FINANCEIRA SA, ITAÚ, Brasil</h4></strong>
+                    <strong>Professor</strong>
                     <br>
-                      
-                      <h5></h5> 
-                      
-                      <h5>Para maiores detalhes veja os artigos abaixo:</h5>
-                      
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            <a href="https://github.com/pedrocostaferreira/Articles/tree/master/Conting%C3%AAncia-Judicia-na-concession%C3%A1ria-Light" target="blank">
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> </button></li>
-                            </a>
-                            <br>
-                            <a href="https://github.com/pedrocostaferreira/Articles/tree/master/Conting%C3%AAncia-Judicia-na-concession%C3%A1ria-Light" target="blank">
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> </button></li>
-                            </a>
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                      <h5>Professor de Microeconometric modelos: Fundação Itaú Social</h5>
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -366,16 +326,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                     
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -402,16 +353,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                     
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -439,16 +381,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                     
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -475,16 +408,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                     
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -511,16 +435,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                    
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -547,16 +462,7 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                    
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
@@ -583,18 +489,11 @@ title: Incompany
                       
                       <h5></h5>
                       
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            
-                            <br>
-                            
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
+                     
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
             </ul><!--/ul media-list -->
           </div><!--/jumbotron-->
+          
+         

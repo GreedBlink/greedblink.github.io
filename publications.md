@@ -50,7 +50,7 @@ title: Publications
                   
                   <tr>
                     <td><span class="badge badge-inverse">4</span></td>
-                     <td>ALMEIDA, E. S. ; PEROBELLI, F. S ; FERREIRA, P. G. C. . <i>Existe convergência espacial da produtividade agrícola no Brasil?. Revista de Economia e Sociologia Rural (Impresso)</i>
+                     <td>ALMEIDA, E. S. ; PEROBELLI, F. S ; <a href="#" target="blank"><strong>FERREIRA, P. G. C.</strong></a>. <i>Existe convergência espacial da produtividade agrícola no Brasil?. Revista de Economia e Sociologia Rural (Impresso)</i>
                          <span class="label label-danger">2008</span>
                      </td>
                   </tr>
@@ -169,7 +169,7 @@ title: Publications
                   
                   <tr>
                     <td><span class="badge badge-inverse">23</span></td>
-                    <td><a><strong>FERREIRA, P. G. C.</strong></a>;  FERREIRA, P. G. C. ; SOUZA, R. C. ; MIRANDA, C. V. C. ; CALILI, R. F. . Critérios de Identificação da Ordem do Modelo Autorregressivo Periódico ? Par(P). In: 42º Simpósio Brasileiro de Pesquisa Operacional, 2010, Bento Gonçalves. 42º Simpósio Brasileiro de Pesquisa Operacional, <span class="label label-danger">2010.</span></td>
+                    <td><a><strong>FERREIRA, P. G. C.</strong></a>; SOUZA, R. C. ; MIRANDA, C. V. C. ; CALILI, R. F. . Critérios de Identificação da Ordem do Modelo Autorregressivo Periódico ? Par(P). In: 42º Simpósio Brasileiro de Pesquisa Operacional, 2010, Bento Gonçalves. 42º Simpósio Brasileiro de Pesquisa Operacional, <span class="label label-danger">2010.</span></td>
                   </tr>
                   
                    <tr>
