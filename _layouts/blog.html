@@ -43,81 +43,26 @@
   </head>
 
   <body>
-    
-    <nav class="navbar navbar-fixed-top navbar-inverse">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="blog.html"><img src="/images/teste.png" class="img-responsive" width="350px"></a>
-          
-        </div>
-        
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-             <li class="dropdown"><a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown"><span>Teaching</span> <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="/graduation.html">Graduation</a></li>
-            <li><a href="/posgraduation.html">Pós-Graduação</a></li>
-            
-          </ul>
-        </li>
-            
-            <li><a href="/research">Research</a></li>
-            <li><a href="incompany.html">In Company</a></li>
-            <li><a href="/publications.html">Publications</a></li>
-            
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-                <input type="text" class="form-control" placeholder="Search">
-            </div><!--/.fotm-group-->
-                <button type="submit" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
-          </form>
-        </div><!-- /.nav-collapse -->
-      </div><!-- /.container -->
-    </nav><!-- /.navbar -->
-    
-    <br>
-    
-    <div class="container">
-<br><br><br><br>
-<div class="row row-offcanvas row-offcanvas-right">
 
-        <div class="col-xs-12 col-sm-9">
-          <p class="pull-right visible-xs">
-            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
-          </p>
-          
-          
-          
-       <div class="row">   
+{% include header_blog.html %}
+       <div class="row">     
           
   {{ content }}
-
             
            
      </div><!--/row-->     
           <hr>
-          <nav>
-        <ul class="pager">
-          <li class="previous"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
-          <li class="next"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
-        </ul><!-- /ulpages-->
-      </nav>
-        </div><!--/.col-xs-12.col-sm-9 -->
+          
         
-        
-       
-        
+        </div>
+
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
           <div class="list-group">
-            <a href="#" class="list-group-item active">Por que "Comida, politica e data science"?</a>
+            <a href="#" class="list-group-item active">
+              <h4 class="list-group-item-heading">
+              <small>"Comida, política e data science"?!</small>
+              </h4>
+              </a>
               <li class="list-group-item">
                 <p>
                   Nome sugestivo, não? Pois é. Revela paixões. Com certeza não as únicas, nem as maiores, mas paixões.</p>
@@ -134,50 +79,57 @@
           </div>
         </div><!--/.sidebar-offcanvas-->
         
-         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" ide="sidebar">
-          <div class="list-group">
-            
-            <a href="#" class="list-group-item active">Colaboradores do Blog <i class="fa fa-users" aria-hidden="True"></i></a>
-              <li class="list-group-item"><img class="img-circle" src="/images/pedro.jpg" width="36px" height="36px"> Colaborador 1</li>
-              <li class="list-group-item"><img class="img-circle" src="/images/pedro.jpg" width="36px" height="36px"> Colaborador 2</li>
-              <li class="list-group-item"><img class="img-circle" src="/images/pedro.jpg" width="36px" height="36px"> Colaborador 3</li>
-              <li class="list-group-item"><img class="img-circle" src="/images/pedro.jpg" width="36px" height="36px"> Colaborador 4</li>
-          </div>
-          
-        </div>
-        
-        
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
           <div class="list-group">
-            <a href="#" class="list-group-item active">Sites e blogs que recomendo</a>
-            <li class="list-group-item"><a href="http://www.r-blogers.com/" target="blank">R-Bloggers</a></li>
-            <li class="list-group-item"><a href="http://www.superforecasting.com/" target="blank">Superforecasting in Action</a></li>
-            <li class="list-group-item"><a href="http://portalibre.fgv.br/" target="blank">FGV|IBRE</a></li>
-            <li class="list-group-item"><a href="http://www.blogdokennedy.com.br/" target="blank">Blog do Kennedy</a></li>
-            <li class="list-group-item"><a href="http://cooking.nytimes.com/s" target="blank">The New York Times Cooking</a></li>
+          
+            <a href="#" class="list-group-item active">
+             <h4 class="list-group-item-heading">
+              Sites e blogs recomendados
+              </h4>
+              <pclass="list-group-item-text">
+                
+              </p>
+              </a>
+            <li class="list-group-item"><a href="http://www.r-blogers.com/" target="blank"><img class="img-circle" src="https://pbs.twimg.com/profile_images/502185985786916864/gkdFh-q7_400x400.png" width="36px" height="36px"> R-Bloggers</a></li>
+            <li class="list-group-item"><a href="http://www.superforecasting.com/" target="blank"><img class="img-circle" src="http://www.sitehere.ru/favicons/favicon-160x160.png" width="36px" height="36px"> Superforecasting in Action</a></li>
+            <li class="list-group-item"><a href="http://portalibre.fgv.br/" target="blank"><img class="img-circle" src="https://pbs.twimg.com/profile_images/461230549260980224/nTweues0.png" width="36px" height="36px"> FGV|IBRE</a></li>
+            <li class="list-group-item"><a href="http://www.blogdokennedy.com.br/" target="blank"><img class="img-circle" src="/images/k.jpg" width="36px" height="36px"> Blog do Kennedy</a></li>
+            <li class="list-group-item"><a href="http://cooking.nytimes.com/s" target="blank"><img class="img-circle" src="/images/ccooking.png" width="36px" height="36px"> The New York Times Cooking</a></li>
           </div>
         </div><!--/.sidebar-offcanvas-->
+       
+       
+       
+       
+         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" ide="sidebar">
+          <div class="list-group">
+              <a href="#" class="list-group-item active">
+                 <h4 class="list-group-item-heading">
+                    <i class="fa fa-users" aria-hidden="True"></i> Colaboradores do Blog 
+                 </h4>
+                </a>
+              <li class="list-group-item"><img class="img-circle" src="/images/pedro.jpg" width="36px" height="36px"> <strong>Pedro Ferreira</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/daiane.jpg" width="36px" height="36px"> <strong>Daiane Marcolino</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/lucas.jpg" width="36px" height="36px"> <strong>Lucas Farias</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/talitha.jpg" width="36px" height="36px"> <strong>Talitha Esperanza</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/fernando.jpg" width="36px" height="36px"> <strong>Fernando Teixeira</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/jonatha.jpg" width="36px" height="36px"> <strong>Jonatha Azevedo</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/anna.jpg" width="36px" height="36px"> <strong>Anna Carolina</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/bianca.jpg" width="36px" height="36px"> <strong>Bianca Gonçalves</strong></li>
+              <li class="list-group-item"><img class="img-circle" src="/images/ingrid.jpg" width="36px" height="36px"> <strong>Ingrid Luquett</strong></li>
+          </div>
+        </div>
         
       </div><!--/row-->
       <hr>
       
-      <hr>
-
-      <footer>2016 Pedro Costa Ferreira
-      </footer>
-      
-      
-
-    </div><!--/.container-->
-  
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> 
-    
+    <script src="/js/bootstrap.js"></script> 
     <!-- <script src="./Off Canvas Template for Bootstrap_files/jquery.min.js"></script> -->
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <!-- <script src="./Off Canvas Template for Bootstrap_files/bootstrap.min.js"></script>  -->
@@ -199,6 +151,17 @@ function scrollWin() {
     window.scrollTo(500, 0);
 }
 </script>
+<!-- facebook share button -->
+<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+    
+    
+<!-- twitter share button -->
 
     
 </body></html>

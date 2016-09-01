@@ -48,7 +48,10 @@ title: Incompany
             </ul><!--/ul media-list -->
           </div><!--/jumbotron-->
 
-<hr>
+<hr> 
+ 
+ <button type="button" class="btn btn-default btn-xs">Projetos</button>
+
 
 <div class="jumbotron">
             <ul class="media-list">
@@ -56,18 +59,30 @@ title: Incompany
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
-                      <img src="/images/fgv_logo.png" width="130px" class="media-object" alt="Light S.A.">
+                      <img src="/images/Light.png" width="130px" class="media-object" alt="Light S.A.">
                     </a>
                   </div><!-- /.media-left-->
                   <div class="media-body">
-                    <strong><h4 class = "media-heading">Fundação Getúlio Vargas, FGV, Brasil.</h4></strong>
-                    <strong>Cientista chefe do núcleo de métodos estatísticos e computacionais (NMEC) - IBRE </strong>
+                    <h4 class = "media-heading">Light S.A.</h4>
+                    <strong>Redução do Fundo de Contingenciamento Jurídico – Pequenas causas</strong>
                     <br>
-                      <h5>
-                        Cientista-chefe do centro de pesquisa estatísticas da Superintendência de estatísticas públicas 
-                        (índice de preço e ciclo de negócios). Nossas tarefas são: desenvolver novas metodologias para melhorar 
-                        nossos resultados estatísticos e minimizar custos; fornece treinamento em estatística aplicada e modelos 
-                        econométricos de série de vezes.
+                      
+                      <h5>Foi desenvolvido um projeto que permitiu a empresa Light S.A reduzir seu fundo de contingenciamento 
+                      jurídico em aproximadamente R$ 4 milhões por ano.  Basicamente, nós estimamos as principais causas de
+                      contencioso jurídico da empresa e prevemos o número de processos um ano à frente, baseados nas ações
+                      da empresa.</h5> 
+                      
+                      <h5>Para maiores detalhes veja os artigos abaixo:</h5>
+                      
+                      <h5><ul class="nav navbar-nav navbar-left">
+                            <a href="https://github.com/pedrocostaferreira/Articles/tree/master/Conting%C3%AAncia-Judicia-na-concession%C3%A1ria-Light" target="blank">
+                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
+                            </a>
+                            <br>
+                            <a href="https://github.com/pedrocostaferreira/Articles/tree/master/Conting%C3%AAncia-Judicia-na-concession%C3%A1ria-Light" target="blank">
+                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
+                            </a>
+                          </ul><!-- /ul nav navbar-nav navbar-left-->
                       </h5>
                     </div><!--/media body-->
                 </div><!--/media -->
@@ -75,7 +90,37 @@ title: Incompany
             </ul><!--/ul media-list -->
           </div><!--/jumbotron-->
           
-<hr>
+          
+<div class="jumbotron">
+            <ul class="media-list">
+              <li class="media">
+                <div class="media">
+                  <div class="media-left">
+                    <a href="#">
+                      <img src="/images/aneel.png" width="130px" class="media-object" alt="Light S.A.">
+                    </a>
+                  </div><!-- /.media-left-->
+                  <div class="media-body">
+                    <h4 class = "media-heading">Agência Nacional de Energia Elétrica, ANEEL, Brasil.</h4>
+                    <strong>P&D Estratégico ANEEL - Duke Energy International, Geração Paranapanema, DEI-GP, Brasil.</strong>
+                    <br>
+                      
+                      <h5>Consultor/Pesquisador no projeto de P&D PDE e PDDE (Sistemas Equivalentes), Modelo de Rateio do Bloco Hidráulico via Programação Não Linear e Geração de Cenários Sintéticos de Vazões e Energias</h5> 
+                      
+                      <h5>Para maiores detalhes veja os artigos abaixo:</h5>
+                       <h5><ul class="nav navbar-nav navbar-left">
+                            <a href="http://www.mddh.com.br/" target="blank">
+                              <li><button class="btn btn-default" type="button"><i class="fa fa-globe fa-2x" aria-hidden="true"></i> www.mddh.com.br</button></li>
+                            </a>
+                          </ul><!-- /ul nav navbar-nav navbar-left-->
+                      </h5>
+                      
+                    </div><!--/media body-->
+                </div><!--/media -->
+              </li><!--/li media -->
+            </ul><!--/ul media-list -->
+          </div><!--/jumbotron-->
+
 
 <div class="jumbotron">
             <ul class="media-list">
@@ -83,20 +128,66 @@ title: Incompany
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
-                      <img src="/images/Ibmec.png" width="130px" class="media-object" alt="Light S.A.">
+                      <img src="" class="media-object" >
                     </a>
                   </div><!-- /.media-left-->
                   <div class="media-body">
-                   <strong><h4 class = "media-heading">IBMEC RJ, IBMEC RJ, Brasil.</h4></strong>
-                    <strong>Professor Assistente</strong>
+                    <strong><h4 class = "media-heading">Consultoria Operador Nacional do Sistema (ONS) - GEVAZP e PREVIVAZM</h4></strong>
+                    <strong></strong>
                     <br>
-                      <h5>Ensino de estatística e modelos de série temporal econométrica.</h5> 
+                      <h5>
+                        Consultor em Séries Temporais para a validação dos softwares de geração de cenários desenvolvido pelo CEPEL, denominados GEVAZP e PREVIVAZM.
+                      </h5>
                     </div><!--/media body-->
                 </div><!--/media -->
               </li><!--/li media -->
             </ul><!--/ul media-list -->
           </div><!--/jumbotron-->
           
+
+
+<div class="jumbotron">
+            <ul class="media-list">
+              <li class="media">
+                <div class="media">
+                  <div class="media-left">
+                    <a href="#">
+                      
+                    </a>
+                  </div><!-- /.media-left-->
+                  <div class="media-body">
+                   <strong><h4 class = "media-heading">Modelos de Previsão de curto e longo prazos - DURATEX S.A.</h4></strong>
+                    <strong>Professor Assistente</strong>
+                    <br>
+                      <h5>Consultor para previsão mensal e anual das linhas de produtos DURATEX (louças e metais) utilizando modelos univariados e de regressão dinâmica.</h5> 
+                    </div><!--/media body-->
+                </div><!--/media -->
+              </li><!--/li media -->
+            </ul><!--/ul media-list -->
+          </div><!--/jumbotron-->
+          
+
+
+
+<div class="jumbotron">
+            <ul class="media-list">
+              <li class="media">
+                <div class="media">
+                  <div class="media-left">
+                    <a href="#">
+                      
+                    </a>
+                  </div><!-- /.media-left-->
+                  <div class="media-body">
+                   <strong><h4 class = "media-heading">Plano Estadual de Logística e Transporte em Minas Gerais (PELT - MG) - parceria com a FIPE</h4></strong>
+                    <strong>Professor Assistente</strong>
+                    <br>
+                      <h5>Plano Estadual de Logística e Transporte em Minas Gerais (PELT - MG) - Fundação Instituto de Pesquisas Econômicas, FIPE, Brasil.</h5> 
+                    </div><!--/media body-->
+                </div><!--/media -->
+              </li><!--/li media -->
+            </ul><!--/ul media-list -->
+          </div><!--/jumbotron-->
 
 
 <hr>
@@ -243,44 +334,7 @@ title: Incompany
 
  <hr>
  
-<div class="jumbotron">
-            <ul class="media-list">
-              <li class="media">
-                <div class="media">
-                  <div class="media-left">
-                    <a href="#">
-                      <img src="/images/Light.png" width="130px" class="media-object" alt="Light S.A.">
-                    </a>
-                  </div><!-- /.media-left-->
-                  <div class="media-body">
-                    <h4 class = "media-heading">Light S.A.</h4>
-                    <strong>Redução do Fundo de Contingenciamento Jurídico – Pequenas causas</strong>
-                    <br>
-                      
-                      <h5>Foi desenvolvido um projeto que permitiu a empresa Light S.A reduzir seu fundo de contingenciamento 
-                      jurídico em aproximadamente R$ 4 milhões por ano.  Basicamente, nós estimamos as principais causas de
-                      contencioso jurídico da empresa e prevemos o número de processos um ano à frente, baseados nas ações
-                      da empresa.</h5> 
-                      
-                      <h5>Para maiores detalhes veja os artigos abaixo:</h5>
-                      
-                      <h5><ul class="nav navbar-nav navbar-left">
-                            <a href="https://github.com/pedrocostaferreira/Articles/tree/master/Conting%C3%AAncia-Judicia-na-concession%C3%A1ria-Light" target="blank">
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> "Previsão e análise financeira da contigência..." [CITENEL, 2013]</button></li>
-                            </a>
-                            <br>
-                            <a href="https://github.com/pedrocostaferreira/Articles/tree/master/Conting%C3%AAncia-Judicia-na-concession%C3%A1ria-Light" target="blank">
-                              <li><button class="btn btn-default" type="button"><i class="fa fa-github fa-2x" aria-hidden="true"></i> “Previsão e análise financeira da contingência...” [R. P&D Aneel]</button></li>
-                            </a>
-                          </ul><!-- /ul nav navbar-nav navbar-left-->
-                      </h5>
-                    </div><!--/media body-->
-                </div><!--/media -->
-              </li><!--/li media -->
-            </ul><!--/ul media-list -->
-          </div><!--/jumbotron-->
-          
-          
+
 <!-- /light -->
 
 <hr>
